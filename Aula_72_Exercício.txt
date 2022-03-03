@@ -1,0 +1,23 @@
+Frios:
+
+0001 Carne Bovina 1kg R$30,00
+0002 Carne de Porco 1kg R$25,00
+0003 Carne de Frango 1kg R$45,00
+0004 Carne de Carneiro 1k R$20,00
+
+
+Salgadinhos:
+
+0011 Doritos R$07,00
+0021 Elmas Chips R$05,00
+0031 Ruffles R$08,00 
+0041 Ruffles Crocantes R$10,00
+
+
+Bebidas:
+
+0012 Rantamplán D.O. Rueda Verdejo 2018 R$74,95
+0023 Pinhal da Torre Resiliente 2015 R$1339,00
+0024 Pinhal da Torre Antagonista 2013 R$569,90
+0025 Pinhal da Torre Resoluto 2015 R$239,90
+
